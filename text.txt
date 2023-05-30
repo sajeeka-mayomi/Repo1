@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is AC98-93D9
+
+ Directory of D:\Learning - 2023\MyGitProjects
+
+05/30/2023  11:36 AM    <DIR>          .
+05/30/2023  11:30 AM    <DIR>          ..
+05/30/2023  11:36 AM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  240,766,103,552 bytes free
